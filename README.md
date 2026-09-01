@@ -1,5 +1,7 @@
 # 🚀 Production RAG Assistant
 
+![Dashboard]( Screenshot 2026-08-27 002154.png)  
+
 A production-style **Retrieval-Augmented Generation (RAG)** system that enables users to upload documents and ask questions using grounded, context-aware AI responses.
 
 This project goes beyond a basic chatbot by implementing a modular AI engineering architecture with document ingestion, semantic chunking, embeddings, FAISS vector search, query rewriting, reranking, LLM generation, response validation, source citations, streaming responses, and API-based integration.
