@@ -1,6 +1,6 @@
 # 🚀 Production RAG Assistant
 
-![Dashboard](Screenshot 2026-08-27 002154.png)  
+![Dashboard](Assets/Overview2.png.png)  
 
 A production-style **Retrieval-Augmented Generation (RAG)** system that enables users to upload documents and ask questions using grounded, context-aware AI responses.
 
